@@ -3,8 +3,8 @@
 I’m a physicist turned self-taught Machine Learning engineer passionate about bridging theory and practice.
 
 - 🔭 Currently building and deploying projects across Traditional ML, Deep Learning, Reinforcement Learning, and Generative Models.
-- 📚 Self-studied extensively with foundational books like *Learning Python*, *Hands-On ML*, *Deep Learning* by Goodfellow, *Reinforcement Learning: An Introduction*, and more.
-- 🤖 Projects include building a small GPT-2 style language model, GANs and their variants, CNNs, RNNs, seq2seq with and without attention for NMT tasks, Autoencoders, VAEs, customized traditional ML algorithms, and RL implementations.
+- 📚 I’ve built a strong foundation through self-study—starting with Learning Python to master the language itself—then diving into core texts like Hands-On Machine Learning, Deep Learning by Goodfellow, and a wide range of resources to go deep into machine learning, deep learning, and reinforcement learning.
+- 🤖 Projects include building a small GPT-2 style language model, several GAN variants (DCGAN, StyleGAN, CycleGAN), deep learning architectures such as CNNs, RNNs, LSTMs, GRUs, seq2seq models with and without attention for neural machine translation, Autoencoders and Variational Autoencoders (VAEs), customized implementations of traditional machine learning algorithms, and reinforcement learning agents applying algorithms like DQN and PPO.
 - 🎯 Focused on creating real-world applications grounded in solid mathematical and physical principles.
 
 ## 📚 My Self-Study Journey
