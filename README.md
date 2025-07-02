@@ -1,13 +1,13 @@
-# Hi there, I’m PhysicsMathMLDLRL 👋
+# Hi there, I’m PhysicsMathMLDLRL 
 
 I’m a physicist turned self-taught Machine Learning engineer passionate about bridging theory and practice.
 
-- 🔭 Currently building and deploying projects across Traditional ML, Deep Learning, Reinforcement Learning, and Generative Models.
-- 📚 I’ve built a strong foundation through self-study—starting with Learning Python to master the language itself—then diving into core texts like Hands-On Machine Learning, Deep Learning by Goodfellow, and a wide range of resources to go deep into machine learning, deep learning, and reinforcement learning.
-- 🤖 Projects include building a small GPT-2 style language model, several GAN variants (DCGAN, StyleGAN, CycleGAN), deep learning architectures such as CNNs, RNNs, LSTMs, GRUs, seq2seq models with and without attention for neural machine translation, Autoencoders and Variational Autoencoders (VAEs), customized implementations of traditional machine learning algorithms, and reinforcement learning agents applying algorithms like DQN and PPO.
-- 🎯 Focused on creating real-world applications grounded in solid mathematical and physical principles.
+- Currently building and deploying projects across Traditional ML, Deep Learning, Reinforcement Learning, and Generative Models.
+- I’ve built a strong foundation through self-study—starting with Learning Python to master the language itself—then diving into core texts like Hands-On Machine Learning, Deep Learning by Goodfellow, and a wide range of resources to go deep into machine learning, deep learning, and reinforcement learning.
+- Projects include building a small GPT-2 style language model, several GAN variants (DCGAN, StyleGAN, CycleGAN), deep learning architectures such as CNNs, RNNs, LSTMs, GRUs, seq2seq models with and without attention for neural machine translation, Autoencoders and Variational Autoencoders (VAEs), customized implementations of traditional machine learning algorithms, and reinforcement learning agents applying algorithms like DQN and PPO.
+- Focused on creating real-world applications grounded in solid mathematical and physical principles.
 
-## 📚 My Self-Study Journey
+## My Self-Study Journey
 
 As a self-taught ML engineer, I have studied a comprehensive range of foundational and advanced books, including:
 
@@ -24,7 +24,7 @@ As a self-taught ML engineer, I have studied a comprehensive range of foundation
 
 This rigorous self-study has equipped me to build projects spanning traditional ML, deep learning architectures including transformers, CNNs, RNNs, LSTMs, GRUs, GANs, VAEs, reinforcement learning, and language models.
 
-## 🚀 Projects Roadmap
+## Projects Roadmap
 
 ### Traditional Machine Learning
 - Classic ML algorithms & data science projects
@@ -40,7 +40,7 @@ This rigorous self-study has equipped me to build projects spanning traditional 
 - Algorithms for sequential decision-making and control
 - Implementations of state-of-the-art RL techniques
 
-## 📫 How to reach me
+## How to reach me
 Feel free to connect email me at nattyhena@yahoo.com 
 
 ---
