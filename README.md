@@ -24,6 +24,19 @@ As a self-taught ML engineer, I have studied a comprehensive range of foundation
 
 This rigorous self-study has equipped me to build projects spanning traditional ML, deep learning architectures including transformers, CNNs, RNNs, LSTMs, GRUs, GANs, VAEs, reinforcement learning, and language models.
 
+---
+
+## Technical Strengths
+
+- **Languages**: Python (NumPy, Pandas, Matplotlib, etc.)
+- **Frameworks**: PyTorch, TensorFlow, Keras, Scikit-learn, OpenAI Gym
+- **Core Areas**:
+  - Supervised / Unsupervised ML
+  - Deep Learning Architectures (CNNs, RNNs, Transformers, GPT)
+  - Autoencoders, VAEs, GANs
+  - Reinforcement Learning (Q-learning, DQN, PPO, Actor-Critic)
+  - Natural Language Processing (Seq2Seq, Attention, Transformers)
+---
 ## Projects Roadmap
 
 ### Traditional Machine Learning
