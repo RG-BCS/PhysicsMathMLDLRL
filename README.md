@@ -37,21 +37,129 @@ This rigorous self-study has equipped me to build projects spanning traditional 
   - Reinforcement Learning (Q-learning, DQN, PPO, Actor-Critic)
   - Natural Language Processing (Seq2Seq, Attention, Transformers)
 ---
-## Projects Roadmap
 
-### Traditional Machine Learning
-- Classic ML algorithms & data science projects
-- Feature engineering and model optimization
-- Custom implementations of algorithms
+##  Selected Project Categories
 
-### Deep Learning & Generative Models
-- Neural networks with TensorFlow and PyTorch
-- GANs and their variants
-- NLP and small language models
+Below is a curated overview of my key GitHub repositories:
 
-### Reinforcement Learning
-- Algorithms for sequential decision-making and control
-- Implementations of state-of-the-art RL techniques
+---
+
+###  Custom ML Algorithms
+
+**Repo**: `custom-ml-algorithms/`  
+From-scratch implementations of core ML algorithms using NumPy:
+
+- Logistic Regression (binary & multiclass) w/ regularization & early stopping  
+- Linear Regression w/ L1/L2, full-batch GD  
+- K-Nearest Neighbors (KNN), Gaussian Naive Bayes  
+- PCA (dimensionality reduction), Perceptron, Adaline  
+- Ensemble models: Bagging, Voting Classifier  
+- Custom K-Fold Cross Validation
+
+---
+
+### Reinforcement Learning  
+**Repo**: `reinforcement-learning-algorithms/`  
+
+- Vanilla DQN, Double DQN, Dueling DQN, PER  
+- Policy Gradient (REINFORCE) w/ and w/o baseline  
+- Actor-Critic, Tabular Q-Learning, TD(0)  
+- NxN Gridworld MDPs: deterministic & stochastic  
+- Value Iteration, Q-value Iteration, Visualization tools  
+- TensorFlow & PyTorch implementations
+
+---
+
+### MLP Architectures  
+**Repo**: `mlp_basic/`
+
+- MLP from scratch vs PyTorch on MNIST  
+- Heart Disease prediction using PyTorch  
+- TensorFlow/Keras examples using Sequential, Functional, and Subclassing APIs
+
+---
+
+### Convolutional Neural Networks  
+**Repo**: `cnvolutional-neural-networks/`
+
+- LeNet-5, AlexNet, GoogLeNet (Inception v1)  
+- Custom ResNet & Pre-activation ResNet from scratch  
+- ResNet34: Fine-tuning vs feature extraction  
+- CNN vs MLP on Fashion-MNIST
+
+---
+
+### Recurrent Neural Networks  
+**Repo**: `rnn_models/`
+
+- GRU: Custom-built, uni-directional, bi-directional  
+- LSTM: Built from scratch for binary counting & sine wave prediction  
+- Character-level LSTM trained on Jules Verne’s *The Mysterious Island*
+
+---
+
+### Seq2Seq + Attention  
+**Repo**: `seq2seq-models/`
+
+- Seq2Seq NMT models (English→French)  
+- Luong-style attention (dot, general, concat)  
+- Bahdanau attention (additive)  
+- Built using bidirectional GRUs
+
+---
+
+### Transformer Models  
+**Repo**: `transformer-models/`
+
+- Full Transformer Encoder from scratch (multi-head attention, masking, FFN)  
+- GPT-style decoder models (tiny stories generation)  
+- English→Spanish translation using Transformer  
+- Emotion & sentiment classification using custom Transformer encoders  
+- No use of HuggingFace APIs — all built manually using PyTorch
+
+---
+
+### Generative Models (GANs)  
+**Repo**: `gan-models/`
+
+- CGANs (MNIST, Fashion-MNIST)  
+- DCGAN, CycleGAN, Pix2Pix (CMP Facade)  
+- WGAN-GP for single-image super-resolution (DIV2K)  
+- MLP-based GANs vs CNN-GANs  
+- Label-conditioned generation + class control
+
+---
+
+### Autoencoders  
+**Repo**: `autoencoder-models/`
+
+- Convolutional autoencoders for denoising Fashion-MNIST  
+- PCA vs Autoencoder for dimensionality reduction  
+- KMeans + t-SNE visualizations for latent space
+
+---
+
+### Variational Autoencoders (VAEs)  
+**Repo**: `vae-models/`
+
+- Beta-VAE on MNIST for latent disentanglement  
+- VAE on UTKFace: face morphing, interpolation  
+- Anomaly detection using VAE trained on normal digits only  
+- KL annealing, cosine LR decay, and reconstruction loss-based detection
+
+---
+
+## Philosophy
+
+I build projects with an emphasis on:
+
+- Solid mathematical foundations  
+- End-to-end reproducibility  
+- Modular and readable code  
+- Benchmarking against industry-standard implementations  
+- Clarity over complexity — no black boxes
+  
+---
 
 ## How to reach me
 Feel free to connect email me at nattyhena@yahoo.com 
