@@ -1,6 +1,9 @@
 # Hi there, I’m PhysicsMathMLDLRL 
 
-I’m a physicist turned self-taught Machine Learning engineer passionate about bridging theory and practice.
+I'm a physicist turned machine learning engineer passionate about translating mathematical principles into practical AI
+solutions. Through rigorous self-study and implementation-driven learning, I’ve built a portfolio of over 60+ end-to-end
+ML projects—from designing foundational algorithms from scratch to developing language models and training reinforcement
+learning agents in complex environments.
 
 - Currently building and deploying projects across Traditional ML, Deep Learning, Reinforcement Learning, and Generative Models.
 - I’ve built a strong foundation through self-study—starting with Learning Python to master the language itself—then diving into core texts like Hands-On Machine Learning, Deep Learning by Goodfellow, and a wide range of resources to go deep into machine learning, deep learning, and reinforcement learning.
