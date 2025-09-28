@@ -165,7 +165,7 @@ I build projects with an emphasis on:
 ---
 
 ## How to reach me
-Feel free to connect email me at nattyhena@yahoo.com 
+Feel free to connect email me at 
 
 ---
 
